@@ -29,6 +29,7 @@ Me considero un profesional orientado a la mejora continua, con una mentalidad p
 - PHP  
 - Java  
 - C#
+- Laravel
 
 ### ⚙️ Frameworks y herramientas
 - ASP.NET Core  
