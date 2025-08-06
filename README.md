@@ -42,7 +42,7 @@ Me considero un profesional orientado a la mejora continua, con una mentalidad p
 
 ## 🌐 ¿Cómo encontrarme?
 
-- LinkedIn: [PROFILE JONATHAN](https://www.linkedin.com/in/tu-link-aquí)  
+- LinkedIn: [PROFILE JONATHAN](https://www.linkedin.com/in/jonathan-hern%C3%A1ndez-mart%C3%ADnez-69383226a/)  
 - Portafolio: [Portafolio Jonathan](https://jonathanhm0.github.io/Portafolio/)  
 - Correo: dbzjona1@gmail.com
 
